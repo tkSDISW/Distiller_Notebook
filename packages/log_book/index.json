@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-28f0b083f88048dc931c9b84ac6990b6",
@@ -17,6 +17,14 @@
       "title": "vibe: front_porch",
       "tags": [],
       "file_path": "entries/nbcfg-0001-2e5718970913478e8fc81e407e69d542.md"
+    },
+    {
+      "id": "obs-0001-375848b6824a43b7bda9ce495659fab3",
+      "type": "observation",
+      "timestamp": "2026-11-05T19:56:55Z",
+      "title": "## Baseline Summary Review of the Distiller Model (before any changes)",
+      "tags": [],
+      "file_path": "entries/obs-0001-375848b6824a43b7bda9ce495659fab3.md"
     }
   ]
 }
