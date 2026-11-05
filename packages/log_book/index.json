@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "note-0001-28f0b083f88048dc931c9b84ac6990b6",
@@ -25,6 +25,14 @@
       "title": "## Baseline Summary Review of the Distiller Model (before any changes)",
       "tags": [],
       "file_path": "entries/obs-0001-375848b6824a43b7bda9ce495659fab3.md"
+    },
+    {
+      "id": "note-0002-da6f510a45c74e4f86ed5575513bdbf1",
+      "type": "note",
+      "timestamp": "2026-11-05T20:03:15Z",
+      "title": "## Diagram Snapshot: [LAB] Distiller Logical System - refined",
+      "tags": [],
+      "file_path": "entries/note-0002-da6f510a45c74e4f86ed5575513bdbf1.md"
     }
   ]
 }
