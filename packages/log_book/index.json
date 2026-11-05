@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-28f0b083f88048dc931c9b84ac6990b6",
@@ -9,6 +9,14 @@
       "title": "## log_book \u2014 Purpose of This Package",
       "tags": [],
       "file_path": "entries/note-0001-28f0b083f88048dc931c9b84ac6990b6.md"
+    },
+    {
+      "id": "nbcfg-0001-2e5718970913478e8fc81e407e69d542",
+      "type": "notebook_config",
+      "timestamp": "2026-11-05T19:53:36Z",
+      "title": "vibe: front_porch",
+      "tags": [],
+      "file_path": "entries/nbcfg-0001-2e5718970913478e8fc81e407e69d542.md"
     }
   ]
 }
