@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "id": "note-0001-28f0b083f88048dc931c9b84ac6990b6",
@@ -41,6 +41,14 @@
       "title": "## Spelling fixes applied; functional exchange renames proposed",
       "tags": [],
       "file_path": "entries/dec-0001-35930bfa76884a24959ad0a15d624f06.md"
+    },
+    {
+      "id": "obs-0002-b0dbdb0a299c4538953183da3dd7f3f9",
+      "type": "observation",
+      "timestamp": "2026-11-05T20:34:38Z",
+      "title": "## SA Allocation Matrix: Functional Exchanges to Exchange Items",
+      "tags": [],
+      "file_path": "entries/obs-0002-b0dbdb0a299c4538953183da3dd7f3f9.md"
     }
   ]
 }
