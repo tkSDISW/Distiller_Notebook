@@ -1,0 +1,14 @@
+{
+  "package": "log_book",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-28f0b083f88048dc931c9b84ac6990b6",
+      "type": "note",
+      "timestamp": "2026-11-05T19:51:20Z",
+      "title": "## log_book \u2014 Purpose of This Package",
+      "tags": [],
+      "file_path": "entries/note-0001-28f0b083f88048dc931c9b84ac6990b6.md"
+    }
+  ]
+}
